@@ -1,5 +1,7 @@
-icd_code,icd_term
-Q000,Anencephaly
+BNF_chapter_section,inclusions (age restriction),exclusions (age restrictions)
+3.1.1.1,Salbutamol Terbutaline
+3.1.1.1,Formoterol (age 6+), Salmeterol
+
 Q001,Craniorachischisis
 Q002,Iniencephaly
 Q010,Frontal encephalocele
