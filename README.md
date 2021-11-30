@@ -5,6 +5,7 @@ We sought to define typical trajectories of asthma-wheeze using administrative d
 3. Code list for asthma medication 
 # Data sources
 This work uses Scotland-wide administrative data, provided by citizens and collected by the National Records of Scotland and NHS Scotland. This includes the following linked datasets:<br/>
+- Community Health Index (https://www.ndc.scot.nhs.uk/Dictionary-A-Z/Definitions/index.asp?ID=128&Title=CHI%20Number)<br/>
 - National Records of Scotland (NRS) birth and death registrations (https://www.nrscotland.gov.uk/)<br/>
 - The Scottish Birth Record (https://www.ndc.scot.nhs.uk/Data-Dictionary/SMR-Datasets/Scottish-Birth-Record/)<br/>
 - Scottish Morbidity Records, SMR01 (https://www.ndc.scot.nhs.uk/Data-Dictionary/SMR-Datasets/SMR01-General-Acute-Inpatient-and-Day-Case/) and SMR02 (https://www.ndc.scot.nhs.uk/Data-Dictionary/SMR-Datasets/SMR02-Maternity-Inpatient-and-Day-Case/)<br/>
