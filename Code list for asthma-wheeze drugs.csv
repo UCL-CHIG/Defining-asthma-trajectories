@@ -4,34 +4,34 @@ BNF sub-section code,BNF sub-section name,Inclusions (age restrictions),Exclusio
 3.1.1.1,Selective beta2 agonists,Formoterol (age 6+),
 3.1.1.1,Selective beta2 agonists,Salmeterol,
 3.1.1.2,Other adrenoceptor agonists,Orciprenaline sulfate (withdrawn from the market in 2010),
-3.1.1.2,Other adrenoceptor agonists,,Adrenaline/epinephrine,
-3.1.1.2,Other adrenoceptor agonists,,Ephedrine/hydrochloride,
+3.1.1.2,Other adrenoceptor agonists,,Adrenaline/epinephrine
+3.1.1.2,Other adrenoceptor agonists,,Ephedrine/hydrochloride
 3.1.2,Antimuscarinic bronchodilators,Ipratropium bromide,
 3.1.2,Antimuscarinic bronchodilators,,Aclidinium bromide
 3.1.2,Antimuscarinic bronchodilators,,Glycopyrronium
 3.1.2,Antimuscarinic bronchodilators,,Indacaterol
 3.1.2,Antimuscarinic bronchodilators,,Tiotropium
 3.1.2,Antimuscarinic bronchodilators,,Umeclidinium
-3.1.3,Theophylline,Theophylline,,
-3.1.3,Theophylline,Aminophylline,,
-3.1.5,"Peak flow meters, inhaler devices and nebulisers",Standard range peak flow meter (age 6+),,
-3.1.5,"Peak flow meters, inhaler devices and nebulisers",Low range peak flow meter (age 6+),,
-3.1.5,"Peak flow meters, inhaler devices and nebulisers",Inhaler devices,,
-3.1.5,"Peak flow meters, inhaler devices and nebulisers",Spacer devices,, 
-3.2,Corticosteroids,Beclometasone dipropionate (age 2+), 
-3.2,Corticosteroids,Budesonide (age 6 +), 
+3.1.3,Theophylline,Theophylline,
+3.1.3,Theophylline,Aminophylline,
+3.1.5,"Peak flow meters, inhaler devices and nebulisers",Standard range peak flow meter (age 6+),
+3.1.5,"Peak flow meters, inhaler devices and nebulisers",Low range peak flow meter (age 6+),
+3.1.5,"Peak flow meters, inhaler devices and nebulisers",Inhaler devices,
+3.1.5,"Peak flow meters, inhaler devices and nebulisers",Spacer devices,
+3.2,Corticosteroids,Beclometasone dipropionate (age 2+),
+3.2,Corticosteroids,Budesonide (age 6 +),
 3.2,Corticosteroids,Ciclesonide (age 12+),
 3.2,Corticosteroids,Fluticasone propionate (age 4+),
-3.2,Corticosteroids,Mometasone furoate (age 12+),	 
-3.3.1,Cromoglicate and related therapy,Sodium cromoglicate (age 5+),,
-3.3.1,Cromoglicate and related therapy,Nedocromil Sodium (age 5+),,
-3.3.2,Leukotriene receptor antagonists,Montelukast,,
-3.3.2,Leukotriene receptor antagonists,,Zafirlukast (age 12+ only),
-3.4.2,Allergen Immunotherapy,Omalizumab (6+),,	 
-6.3.2,Glucocorticoid therapy,Hydrocortisone,,
-6.3.2,Glucocorticoid therapy,Dexamethasone,,
-6.3.2,Glucocorticoid therapy,Prednisone,,
-6.3.2,Glucocorticoid therapy,Prednisolone (in conjunction with hospital admission,,
-6.3.2,Glucocorticoid therapy,,Betamethasone, 
-6.3.2,Glucocorticoid therapy,,Deflazacort,
-6.3.2,Glucocorticoid therapy,,Methylprednisolone,
+3.2,Corticosteroids,Mometasone furoate (age 12+),
+3.3.1,Cromoglicate and related therapy,Sodium cromoglicate (age 5+),
+3.3.1,Cromoglicate and related therapy,Nedocromil Sodium (age 5+),
+3.3.2,Leukotriene receptor antagonists,Montelukast,
+3.3.2,Leukotriene receptor antagonists,,Zafirlukast (age 12+ only)
+3.4.2,Allergen Immunotherapy,Omalizumab (6+), 
+6.3.2,Glucocorticoid therapy,Hydrocortisone,
+6.3.2,Glucocorticoid therapy,Dexamethasone,
+6.3.2,Glucocorticoid therapy,Prednisone,
+6.3.2,Glucocorticoid therapy,Prednisolone (in conjunction with hospital admission,
+6.3.2,Glucocorticoid therapy,,Betamethasone 
+6.3.2,Glucocorticoid therapy,,Deflazacort
+6.3.2,Glucocorticoid therapy,,Methylprednisolone
