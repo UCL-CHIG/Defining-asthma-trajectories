@@ -198,7 +198,7 @@ reshape		wide any_indicator,i(childid) j(age)
 save		"$temp\anyasthmawheeze_WIDE.dta", replace
 
 *set outcome to missing for those who die or emigrate before end of follow-up
-*this information is derived from CHI records and National Records of Scotland (NRS) death registration
+*this information is derived from the Community Health Index and National Records of Scotland (NRS) death registrations
 *first set missing to no asthma/wheeze
 drop 		any_indicator10
 rename		any_indicator* AW*
