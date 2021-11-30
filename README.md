@@ -1,5 +1,5 @@
 # Defining-asthma-wheeze-trajectories
-We sought to define typical trajectories of asthma-wheeze using administrative data from Scotland. This repository contains two scripts and one coe list:<br/>
+We sought to define typical trajectories of asthma-wheeze using administrative data from Scotland. This repository contains two scripts and one code list:<br/>
 1. Stata code to define asthma/wheeze at ages 2 to 9 years (for use in script 2)
 2. Mplus code to implement latent class growth analysis (LCGA), which was used to model asthma/wheeze trajectory groups<br/>
 3. Code list for asthma medication 
